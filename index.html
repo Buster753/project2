@@ -1,27 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="assets\css\style.css" />
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/css/style.css">
-    
+    <title>Stone Paper Scissor Lizard Spock Game</title>
+  </head>
 
-    <title>Quiz Game!</title>
-</head>
-<body>
-
-    <section class="signupform">
-            
-        <h2>Sign Up To The Newsletter Here!</h2>
-            
-    
-    
+  <body>
+    <section class="quizWindow flex-container">
+      <h3 class="playerScore">Player: 0</h3>
+      <h3 class="computerScore">Computer: 0</h3>
+      <button onclick="playGame('rock')" class="gameChoice" id="rock">
+        Rock
+      </button>
+      <button onclick="playGame('scissor')" class="gameChoice" id="scissor">
+        Scissor
+      </button>
+      <button onclick="playGame('paper')" class="gameChoice" id="paper">
+        Paper
+      </button>
+      <button onclick="playGame('lizard')" class="gameChoice" id="lizard">
+        Lizard
+      </button>
+      <button onclick="playGame('spock')" class="gameChoice" id="spock">
+        Spock
+      </button>
     </section>
 
-    <footer></footer>
-</body>
-
-
+    <footer id="footer">
+      Rules: Rock > Scissors & Lizard Paper > Rock & Spock Scissor > Paper &
+      Lizard Lizard > Spock & Paper Spock > Rock & Scissors
+    </footer>
+  </body>
 </html>

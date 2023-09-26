@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@300&family=DM+Serif+Display&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    color: black;
+    font-family: DM sans, sans-serif;
+    font-weight: 300;
+    background-color: burlywood;
+    min-height: 100vh;
+
+}
+
+h1,
+h2 {
+    color: black;
+    font-family: DM Serif Display, serif;
+
+}
+
+hr {
+    display: block;
+    margin: auto;
+    border: 1.5px solid black;
+    width: 70%;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.quizWindow {
+    background-color: lightblue;
+    border-radius: 20px;
+    box-sizing: border-box;
+    height: 400px;
+    width: 600px;
+    text-align: center;
+    margin: auto;
+
+}
+
+#footer {
+    text-align: center;
+    margin: auto;
+    position: absolute;
+}
