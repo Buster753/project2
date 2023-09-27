@@ -10,29 +10,34 @@
   </head>
 
   <body>
+    <h1 id="gameTitle" >
+        Are you ready to play a Game of Stone Paper Scissor Lizard Spock? <br>
+    </h1>
     <section class="quizWindow flex-container">
-      <h3 class="playerScore">Player: 0</h3>
-      <h3 class="computerScore">Computer: 0</h3>
-      <button onclick="playGame('rock')" class="gameChoice" id="rock">
-        Rock
-      </button>
-      <button onclick="playGame('scissor')" class="gameChoice" id="scissor">
-        Scissor
-      </button>
-      <button onclick="playGame('paper')" class="gameChoice" id="paper">
-        Paper
-      </button>
-      <button onclick="playGame('lizard')" class="gameChoice" id="lizard">
-        Lizard
-      </button>
-      <button onclick="playGame('spock')" class="gameChoice" id="spock">
-        Spock
-      </button>
+      <h3 id="playerScore">Player: 0</h3>
+      <h3 id="computerScore">Computer: 0</h3>
+      <div class="gameChoice" id="rock"><i class="fa-regular fa-hand-back-fist fa-2xl" data-fa-transform="down-14 grow-10" style="color: #000000;"></i></div>
+      <div class="gameChoice" id="scissor"><i class="fa-regular fa-hand-scissors fa-2xl" data-fa-transform="down-14 grow-10" style="color: #000000;"></i></div>
+      <div class="gameChoice" id="paper"><i class="fa-regular fa-hand fa-2xl" data-fa-transform="down-14 grow-10" style="color: #000000;"></i></div>
+      <div class="gameChoice" id="lizard"><i class="fa-regular fa-hand-lizard fa-2xl" data-fa-transform="down-14 grow-10" style="color: #000000;"></i></div>
+      <div class="gameChoice" id="spock"><i class="fa-regular fa-hand-spock fa-2xl" data-fa-transform="down-14 grow-10" style="color: #000000;"></i></div>
     </section>
 
     <footer id="footer">
-      Rules: Rock > Scissors & Lizard Paper > Rock & Spock Scissor > Paper &
-      Lizard Lizard > Spock & Paper Spock > Rock & Scissors
+      <h3>
+        The rules of the great game Stone-Paper-Scissor-Lizard-Spock goes as
+        follows:
+      </h3>
+      <br />
+      <h4>
+        Rock > Scissors & Lizard<br />
+        Paper > Rock & Spock<br />
+        Scissor > Paper & Lizard<br />
+        Lizard > Spock & Paper<br />
+        Spock > Rock & Scissors
+      </h4>
     </footer>
+    <script src="https://kit.fontawesome.com/c86492803a.js" crossorigin="anonymous"></script>
+    <script src = "assets/js/script.js"></script>
   </body>
 </html>

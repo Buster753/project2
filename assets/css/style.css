@@ -16,7 +16,9 @@ body {
 }
 
 h1,
-h2 {
+h2,
+h3,
+h4 {
     color: black;
     font-family: DM Serif Display, serif;
 
@@ -35,19 +37,95 @@ hr {
     flex-direction: row;
 }
 
+#gameTitle {
+    text-align: center;
+    padding: 20px;
+}
+
 .quizWindow {
     background-color: lightblue;
     border-radius: 20px;
     box-sizing: border-box;
-    height: 400px;
+    height: 500px;
     width: 600px;
     text-align: center;
     margin: auto;
 
 }
 
+#rock,
+#paper,
+#scissor,
+#lizard,
+#spock {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border: 1px solid black;
+    cursor: pointer;
+    margin-top: 10%;
+    margin-left: 13%;
+    margin-right: auto;
+
+}
+#playerScore, #computerScore {
+    margin-top: 10%;
+    margin-left: 1%;
+}
+
+#rock:hover,
+#paper:hover,
+#scissor:hover,
+#lizard:hover,
+#spock:hover {
+    background-color: gray;
+    opacity: 70%;
+
+}
+
 #footer {
     text-align: center;
-    margin: auto;
-    position: absolute;
+    position: fixed;
+    bottom: 0%;
+    height: 170px;
+    width: 100%;
+    background-color: white;
+
+}
+
+@media only screen and (max-width: 599px){
+    .quizWindow {
+            background-color: lightblue;
+            border-radius: 20px;
+            box-sizing: border-box;
+            height: 600px;
+            width: 450px;
+            text-align: center;
+            margin: auto;
+    
+        }
+    #rock,
+    #paper,
+    #scissor,
+    #lizard,
+    #spock {
+        height: 100px;
+        width: 100px;
+        background-color: white;
+        border: 1px solid black;
+        cursor: pointer;
+        margin-top: 10%;
+        margin-left: 13%;
+        margin-right: auto;
+    
+    }
+    
+    #footer {
+    text-align: center;
+    position: fixed;
+    bottom: 0%;
+    height: 200px;
+    width: 100%;
+    background-color: white;
+    }
 }
