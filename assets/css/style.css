@@ -98,7 +98,7 @@ hr {
             background-color: lightblue;
             border-radius: 20px;
             box-sizing: border-box;
-            height: 600px;
+            height: 550px;
             width: 450px;
             text-align: center;
             margin: auto;
@@ -124,8 +124,9 @@ hr {
     text-align: center;
     position: fixed;
     bottom: 0%;
-    height: 200px;
+    height: 150px;
     width: 100%;
     background-color: white;
     }
+    
 }
