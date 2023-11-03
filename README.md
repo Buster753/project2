@@ -7,7 +7,8 @@ The Rock Paper Scissor Lizard Spock Game website is a website that strives to le
 Live link found here -> [The Stone-Paper-Scissor-Lizard-Spock-Game](https://buster753.github.io/project2/)
 
 # Site owner goals
-To create a fun game of Rock Paper Scissor Lizard Spock!
+* To create a fun game of Rock Paper Scissor Lizard Spock!
+* To spread and popularize the game.
 
 # Features
 
