@@ -12,21 +12,23 @@ Live link found here -> [The Stone-Paper-Scissor-Lizard-Spock-Game](https://bust
 
 # Features
 
-<details>
-<summary>Changing Titles</summary>
+
+## Changing Titles
+
 <img src="assets/images/project 2 titel.png">
 <img src="assets/images/project 2 titel2.png">
-</details>
-The title of the game is both responsive and changes depending on game result.
 
-<summary>Scoreboard</summary>
+The title of the game is both responsive and changes depending on game result. It incudes different sentences showed depending on user and computer choice. Also displays different sentence structures depending on the result of the game.
+
+## Scoreboard
 <img src="assets/images/scoreboard.png">
-</details>
-A Scoreboard that keeps track och Player and Computer score.
 
-<summary>Buttons for every choice</summary>
+The website also has a Scoreboard that keeps track of Player and Computer score.
+
+## Buttons for every choice
 <img src="assets/images/buttons.png">
-</details>
+
+One image/logo for every choice is displayed. The images/logos are clickable and changes opacity when hovered over with the mouse.
 
 # Testing
 
