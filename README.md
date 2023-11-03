@@ -61,10 +61,18 @@ The website was tested on Safari, Opera and Goole Chrome.
 * No errors or differences in performance between browsers was found.
 
 ### Device Testing
-Device Testing was done using different devices. The devices used in testing included an ipad, an iphone, a macbook pro and a desktop pc.
+ * Device Testing was done using different devices. The devices used in testing included an ipad, an iphone, a macbook pro and a desktop pc.
 
-During testing no differences in performance or responsability was found.
+* During testing no differences in performance or responsability was found.
 
+### Button Testing 
+* All buttons were pressed and tested manually both using a mouse and a touchscreen to make sure the website works as intended.
+
+### Game Testing
+To ensure the game works properly different properties of the game was tested.
+* The game shows a different title after every game played.
+* The Scoreboard was shown to update after each hand played.
+* The game rules are followed and the correct winner and loser is decided.
 # Technologies Used
 
 * Html, CSS and JS
