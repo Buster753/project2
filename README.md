@@ -32,21 +32,21 @@ One image/logo for every choice is displayed. The images/logos are clickable and
 
 # Testing
 
-### HTML, CSS and JS validation
+## HTML, CSS and JS validation
 
-<summary>HTML validation</summary>
+### HTML validation
 <img src="assets/images/htmlvalidatorproject2.png">
-</details>
+
 * No errors however some unnesecary backslashes caused from saving the page in codeanywhere. Unsure of cause.
 
-<summary>Css validation</summary>
+### Css validation
 <img src="assets/images/cssvalidatorproject2.png">
-</details>
+
 * No errors found
 
-<summary>JS validation</summary>
+### JS validation
 <img src="assets/images/JSvalidatorproject2.png">
-</details>
+
 * No errors found
 
 
@@ -54,13 +54,16 @@ One image/logo for every choice is displayed. The images/logos are clickable and
 
 <img src="assets/images/lighthouse.jpg">
 
-* The website showed great performance during lighthouse testing.
+* The website showed great performance during lighthouse testing. A hundred was given in Best Practices and Performance showing good code was written. The website also got an 95 in accessibility showing good design choices were made where colors and fonts were easy to read.
 
 ### Browser Testing
 The website was tested on Safari, Opera and Goole Chrome.
+* No errors or differences in performance between browsers was found.
 
 ### Device Testing
-Device Testing was done using an iphone to check its responsiveness
+Device Testing was done using different devices. The devices used in testing included an ipad, an iphone, a macbook pro and a desktop pc.
+
+During testing no differences in performance or responsability was found.
 
 # Technologies Used
 
