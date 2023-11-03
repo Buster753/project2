@@ -1,6 +1,10 @@
 # The Rock Paper Scissor Lizard Spock Game
 
-Live link to [The Stone-Paper-Scissor-Lizard-Spock-Game](https://buster753.github.io/project2/)
+The Rock Paper Scissor Lizard Spock game is an improved version of the old Rock Paper Scissors game created by the popular sitcom-show The Big Bang Theory. In the show one of the main characters called Sheldon expresses his opinon that Rock paper scissors is too simplistic and therefore adds two additions to the game, Lizard and Spock.
+
+The Rock Paper Scissor Lizard Spock Game website is a website that strives to let more people try out and have fun with this new version of Rock Paper scissors.
+
+Live link found here -> [The Stone-Paper-Scissor-Lizard-Spock-Game](https://buster753.github.io/project2/)
 
 # Site owner goals
 To create a fun game of Rock Paper Scissor Lizard Spock!
