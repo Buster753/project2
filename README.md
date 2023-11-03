@@ -73,6 +73,7 @@ To ensure the game works properly different properties of the game was tested.
 * The game shows a different title after every game played.
 * The Scoreboard was shown to update after each hand played.
 * The game rules are followed and the correct winner and loser is decided.
+
 # Technologies Used
 
 * Html, CSS and JS
@@ -87,12 +88,17 @@ To ensure the game works properly different properties of the game was tested.
 # Struggles and Bugs
 The Bugs and struggles of creating this game mainly came from eventListeners. 
 Because of a minor syntax error the buttons would automatically clickthemself at page load.
-This was later resolved after looking thorugh some stackoverflow pages and docs at W3C Schools.
+This was later resolved after looking through some stackoverflow pages and docs at W3C Schools.
 
 # Deployment
-Deployment of this website was done through github. 
-To do this I entered the settings of this respository 
-and changed the source on the Build and deployment tab to main and save.
+Deployment of this website was done through github using the following steps.
+
+1. Whilst on the correct repository on Github select settings on the top of the page.
+2. Select pages from the menubar on the left.
+3. Under source click on the Branc-dropdownmenu and select main branch.
+4. Save.
+5. If done correctly deployment should now be confirmed by a text message telling you that your site is now published on (webaddress).
+
 
 # Credits
 
