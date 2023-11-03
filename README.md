@@ -9,6 +9,17 @@ Live link found here -> [The Stone-Paper-Scissor-Lizard-Spock-Game](https://bust
 # Site owner goals
 * To create a fun game of Rock Paper Scissor Lizard Spock!
 * To spread and popularize the game.
+* To learn more about coding and website devolpment by creating and publishing a website.
+
+
+# Design
+The design of the website was made by taking inspiration from a previous project and by researching pubished rock paper scissors games.
+
+The colors of the website are calming with a victorian aesthetic. Whilst not a color combination marketed for games, the calming nature of the colors can be good for a potentially hectic game.
+
+The font of the website is easiy read and was found using google fonts. The font after chosen was implemented by adding it to the css file.
+
+The logos used for the buttons of the website were taken from fontawesome. Here choices were made to enlarge the logos in order to gain better visibility as the original size and thickness would be difficult to see for a potential vision impaired user.
 
 # Features
 
