@@ -102,10 +102,15 @@ Deployment of this website was done through github using the following steps.
 
 # Credits
 
+### Design
 * [Color Combination](<https://webflow.com/blog/best-color-combinations>)
 * [Fonts](https://fonts.google.com)
+
+### Code resources 
 * [W3C Schools](https://www.w3schools.com)
 * [Stack overflow](https://stackoverflow.com)
+
+### Inspiration
 * [Inspiration 1](https://www.codewithfaraz.com/content/107/create-rock-paper-scissors-game-with-html-css-and-javascript#javascript-code)
 * [Inspiration 2](https://www.geeksforgeeks.org/rock-paper-and-scissor-game-using-javascript/)
 
