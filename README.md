@@ -86,8 +86,9 @@ To ensure the game works properly different properties of the game was tested.
 * Vscode
   
 # Struggles and Bugs
-The Bugs and struggles of creating this game mainly came from eventListeners. 
-Because of a minor syntax error the buttons would automatically clickthemself at page load.
+The Bugs and struggles of creating this game mainly came from trying to figure out eventListeners. 
+* Because of a syntax error the buttons would automatically clickthemself at page load.
+
 This was later resolved after looking through some stackoverflow pages and docs at W3C Schools.
 
 # Deployment
